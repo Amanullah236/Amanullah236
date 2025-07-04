@@ -1,5 +1,6 @@
 ![logo](https://github.com/Amanullah236/Amanullah236/blob/main/Amanullah1.png)
-![image](https://github.com/user-attachments/assets/bbe4f106-e7ae-43b7-b2be-4241e39151af)
+![image](![c](https://github.com/user-attachments/assets/3f580190-aa47-4b0d-9946-5f20ccb37689)
+)
 <h1 align="center">Hi 👋, I'm Amanullah Anjum</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 

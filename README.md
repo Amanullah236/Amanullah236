@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://github.com/Amanullah236/Amanullah236/blob/main/Amanullah1.png" alt="Amanullah Anjum" width="120" style="border-radius: 50%;" />
+  <img src="Amanullah236\Amanullah_Photo_Under_1MB.jpg" alt="Amanullah Anjum" width="120" style="border-radius: 50%;" />
 
-  <h1>Hi , I'm Amanullah Anjum</h1>
+  <h1>Hi , I'm Amanullah</h1>
   <h3>Full-Stack Developer · PHP · JavaScript · MySQL · HTML/CSS</h3>
   <p>Building clean, functional web apps from Pakistan 🇵🇰</p>
 
-  <img src="C:\Users\AL-SAEED\OneDrive\Desktop\github\Amanullah236\Amanullah_Photo_Under_1MB.jpg" alt="profile views" />
+  <img src="Amanullah236\Amanullah_Photo_Under_1MB.jpg" alt="profile views" />
 </div>
 
 ---
 
 ##  About Me
 
-- 🎓 Studying **Software Engineering** at Islamia University of Bahawalpur, RYK Campus
+- Studying **Software Engineering** at Islamia University of Bahawalpur, RYK Campus
 -  Building full-stack web apps with **PHP, MySQL, JavaScript & Bootstrap**
 -  Currently working on: **my personal portfolio website**
 - Currently learning: **React.js & RESTful APIs**
 - Ask me about: **HTML, CSS, JavaScript, PHP, MySQL**
 -  Reach me at: **amanullah310ab@gmail.com**
--  Fun fact: I am funny 🥰
+-  Fun fact: I am funny 
 
 ---
 

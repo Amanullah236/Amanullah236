@@ -24,7 +24,7 @@ export default function Portfolio() {
     {
       title: 'MAUVE - Fashion E-Commerce',
       description: 'A modern e-commerce platform for fashion retail with product management, shopping cart, and secure checkout.',
-      tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
+      tech: ['Laravel', 'PHP','React.js', 'MySQL', 'Bootstrap', 'JavaScript'],
       link: 'https://mauve-store.vercel.app',
       color: 'from-purple-500 to-pink-500'
     },

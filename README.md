@@ -1,28 +1,28 @@
 <div align="center">
   <img src="https://github.com/Amanullah236/Amanullah236/blob/main/Amanullah1.png" alt="Amanullah Anjum" width="120" style="border-radius: 50%;" />
 
-  <h1>Hi 👋, I'm Amanullah Anjum</h1>
+  <h1>Hi , I'm Amanullah Anjum</h1>
   <h3>Full-Stack Developer · PHP · JavaScript · MySQL · HTML/CSS</h3>
   <p>Building clean, functional web apps from Pakistan 🇵🇰</p>
 
-  <img src="https://komarev.com/ghpvc/?username=amanullah236&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="C:\Users\AL-SAEED\OneDrive\Desktop\github\Amanullah236\Amanullah_Photo_Under_1MB.jpg" alt="profile views" />
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Studying **Software Engineering** at Islamia University of Bahawalpur, RYK Campus
-- 💼 Building full-stack web apps with **PHP, MySQL, JavaScript & Bootstrap**
-- 🔭 Currently working on: **my personal portfolio website**
-- 🌱 Currently learning: **React.js & RESTful APIs**
-- 💬 Ask me about: **HTML, CSS, JavaScript, PHP, MySQL**
-- 📫 Reach me at: **amanullah310ab@gmail.com**
-- ⚡ Fun fact: I am funny 🥰
+-  Building full-stack web apps with **PHP, MySQL, JavaScript & Bootstrap**
+-  Currently working on: **my personal portfolio website**
+- Currently learning: **React.js & RESTful APIs**
+- Ask me about: **HTML, CSS, JavaScript, PHP, MySQL**
+-  Reach me at: **amanullah310ab@gmail.com**
+-  Fun fact: I am funny 🥰
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -71,5 +71,5 @@
 ---
 
 <div align="center">
-  <i>⭐ Star my repos if you find them useful — it motivates me to keep building!</i>
+  <i> Star my repos if you find them useful — it motivates me to keep building!</i>
 </div>
